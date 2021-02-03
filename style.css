@@ -14,5 +14,6 @@ body {
   line-height: normal;
   font-size: 20vh;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  user-select: none;
   /* border: 1px solid black; */
 }
